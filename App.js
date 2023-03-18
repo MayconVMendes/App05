@@ -80,7 +80,7 @@ export default function App() {
         }></TextInput>
 
       <Pressable style={styles.btn} onPress={calcular}>
-        <Text>Verificar</Text>
+        <Text>Calcular</Text>
       </Pressable>
 
       <Text style={{ marginTop: '5%', fontSize: 20 }}>
