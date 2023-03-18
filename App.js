@@ -51,7 +51,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text style={{ marginTop: '25%', fontSize: 30 }}>Alcool ou Gasolina</Text>
+      <Text style={{ marginTop: '25%', fontSize: 30 }}>Calculo de IMC</Text>
 
       <View style={styles.boxView}>
         <Image
